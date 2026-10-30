@@ -1,0 +1,12 @@
+{
+  "engineVersion": "51a795550eac7daf6daa121a10fd02f71b3063924a93b5a5412a25b88e5a3a13",
+  "files": {
+    "data/chapters.json": "ed3afbf95bd012d4e47f2e9042ea9e66046f48a14b4270c56aada5561ce0543d",
+    "data/knowledge.json": "c698ea8edec3e2995c8652f839829b915d404863b0601df517aa7e133ca6f896",
+    "data/npcs.json": "c557c20d7365c9b0657ec25641f2c6d62a2f5ef0976fed9929ee4905879c61be",
+    "data/side-stories.json": "bcca613f8bc5e05c36a026ed6f2cba2bec3f038f8774a5d8f43592e2a58230ac",
+    "src/engine.js": "c5ca8cdb9f9f8078c29d6df309b098024e5afd3f4e91e1989e8ecbf3ed6d329a",
+    "src/memorial.js": "8621eb7211485a33ae41efadf29b719e97270c1a69a2fce23c9c387fc5ad5477",
+    "src/question-history.js": "e368a7a8066536e2c211affb5c2efafbbb18dae333f661bcfdfef56b3c8ef445"
+  }
+}

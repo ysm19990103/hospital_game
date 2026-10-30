@@ -1,0 +1,8 @@
+{
+  "name": "baiyi-leaderboard",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": { "test": "node --test core.test.js" },
+  "dependencies": { "wx-server-sdk": "~3.0.1" }
+}

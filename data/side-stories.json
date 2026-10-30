@@ -1,0 +1,117 @@
+[
+  {
+    "id": "guning_red_fox",
+    "npcId": "guning",
+    "title": "雍和宫红狐",
+    "video": "media/side/guning_red_fox.mp4",
+    "poster": "assets/side/guning_red_fox.jpg",
+    "description": "救下红狐的顾宁许下愿望，却发现愿望的实现方式也需要被说清。",
+    "requires": []
+  },
+  {
+    "id": "guning_narcissus_missed",
+    "npcId": "guning",
+    "title": "水仙错过",
+    "video": "media/side/guning_narcissus_missed.mp4",
+    "poster": "assets/side/guning_narcissus_missed.jpg",
+    "description": "骨科轮转时，顾宁遇见五年后的自己；相互陪伴改变了时间线，也留下无法重逢的遗憾。",
+    "requires": [
+      "guning_red_fox"
+    ],
+    "transitionIntro": "听完红狐与愿望的故事，顾宁又讲起骨科轮转时的一次相遇：来帮他度过难关的人，竟然是五年后的自己。",
+    "timeNote": "顾宁的往事与未来尾声；五年的跨度只属于片中叙事，首次完整观看仍只推进1个游戏日。",
+    "sourceMetadata": {
+      "fileName": "水仙错过_动态漫画_1080p.mp4",
+      "narrativeOwner": "顾宁",
+      "sourceChapterNumber": null,
+      "subtitlePath": "docs/source-subtitles/guning_narcissus_missed.srt"
+    },
+    "sourceReview": {
+      "method": "full_subtitles_and_sampled_video_frames",
+      "subtitlePath": "docs/source-subtitles/guning_narcissus_missed.srt"
+    }
+  },
+  {
+    "id": "huangning_origin",
+    "npcId": "huangning",
+    "title": "讨封成了规培生",
+    "video": "media/side/huangning_origin.mp4",
+    "poster": "assets/side/huangning_origin.jpg",
+    "description": "黄宁向顾宁讨封，一句话把他带入病历、夜班与科研交织的规培生活。",
+    "requires": []
+  },
+  {
+    "id": "huangning_reunion",
+    "npcId": "huangning",
+    "title": "借来的团圆",
+    "video": "media/side/huangning_reunion.mp4",
+    "poster": "assets/side/huangning_reunion.jpg",
+    "description": "黄宁在病床边听见老人对远方儿子的思念，理解短暂陪伴的意义。",
+    "requires": [
+      "huangning_origin"
+    ]
+  },
+  {
+    "id": "limuliang_city_god",
+    "npcId": "limuliang",
+    "title": "城隍梦",
+    "video": "media/side/limuliang_city_god.mp4",
+    "poster": "assets/side/limuliang_city_god.jpg",
+    "description": "李慕良在午休的梦中得到晋升捷径，也不得不面对承诺背后的代价。",
+    "requires": []
+  },
+  {
+    "id": "limuliang_dice",
+    "npcId": "limuliang",
+    "title": "命运骰子",
+    "video": "media/side/limuliang_dice.mp4",
+    "poster": "assets/side/limuliang_dice.jpg",
+    "description": "荒诞的命运规则让轻慢感情的李慕良重新面对自己的责任。",
+    "requires": [
+      "limuliang_city_god"
+    ]
+  },
+  {
+    "id": "liuchangsheng_solitude",
+    "npcId": "liuchangsheng",
+    "title": "五百年孤独",
+    "video": "media/side/liuchangsheng_solitude.mp4",
+    "poster": "assets/side/liuchangsheng_solitude.jpg",
+    "description": "白蛇柳长生来到人间学医，在社交压力与渴望归属之间寻找相处的方式。",
+    "requires": []
+  },
+  {
+    "id": "baijin_strategy",
+    "npcId": "baijin",
+    "title": "锦囊妙计",
+    "video": "media/side/baijin_strategy.mp4",
+    "poster": "assets/side/baijin_strategy.jpg",
+    "description": "新任院长白斯年面临规培基地评审，向祖父白进请教医院管理。",
+    "requires": []
+  },
+  {
+    "id": "baijin_self_compassion",
+    "npcId": "baijin",
+    "title": "恨己如人",
+    "video": "media/side/baijin_self_compassion.mp4",
+    "poster": "assets/side/baijin_self_compassion.jpg",
+    "description": "七旬白进回到年轻规培生的处境，却在查房时面对年长的自己，重新承受他曾认为理所当然的要求。",
+    "requires": [
+      "baijin_strategy"
+    ],
+    "transitionIntro": "爷孙谈完医院里的安排，另一则关于白进的异闻翻到了被安排者的一面：年长的他，突然成了被自己审视的年轻规培生。",
+    "timeNote": "白进的回溯异闻；年长与年轻的白进属于同一故事的两端，不改变李晨光的年龄与主控身份。",
+    "sourceMetadata": {
+      "fileName": "白衣志怪录_第三十章_恨己如人_横屏.mp4",
+      "narrativeOwner": "白进",
+      "sourceChapterNumber": null,
+      "filenameChapterNumber": 30,
+      "classificationNote": "文件编号与李晨光《美玉白骨》重复，依据完整字幕人物归属，作为白进独立支线保存。",
+      "subtitlePath": "docs/source-subtitles/baijin_self_compassion.srt"
+    },
+    "sourceReview": {
+      "method": "full_production_subtitles_and_sampled_video_frames",
+      "subtitlePath": "docs/source-subtitles/baijin_self_compassion.srt"
+    }
+  }
+]

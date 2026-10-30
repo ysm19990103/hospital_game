@@ -1,0 +1,15 @@
+{
+  "enabled": false,
+  "scaleId": null,
+  "scaleVersion": null,
+  "instructions": "",
+  "responseOptions": [],
+  "items": [],
+  "itemsPerBreak": 2,
+  "consentText": "",
+  "recallWindow": null,
+  "studyId": "baiyi-burnout-pilot",
+  "assessmentWindowHours": 24,
+  "configurationNote": "待核对获授权的具体量表版本、原版指导语、原版题序、作答选项、回顾时间及研究知情同意文本后导入。当前不展示或采集量表。24小时仅为技术默认，须研究方案确认。",
+  "importFormatNote": "授权题目格式为 {id, text, originalOrder}，选项格式为 {value, label}；本配置不含任何真实题目。模块不计算分数。"
+}

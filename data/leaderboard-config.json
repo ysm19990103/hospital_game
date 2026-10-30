@@ -1,0 +1,7 @@
+{
+  "enabled": false,
+  "envId": "",
+  "functionName": "baiyiLeaderboard",
+  "longestMetric": "actionCount",
+  "restorePolicy": "allow_server_replay"
+}

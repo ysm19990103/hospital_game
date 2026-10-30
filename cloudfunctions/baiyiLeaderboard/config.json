@@ -1,0 +1,6 @@
+{
+  "permissions": { "openapi": [] },
+  "triggers": [
+    { "name": "baiyiDailySnapshot", "type": "timer", "config": "0 0 0 * * * *" }
+  ]
+}

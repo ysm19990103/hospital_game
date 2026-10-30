@@ -1,0 +1,596 @@
+[
+  {
+    "id": "med01",
+    "title": "新患者到达病房",
+    "category": "内科",
+    "scene": "护士告知一位新患者刚刚到达病房，病历首页还未填完。",
+    "question": "依据手册的新收患者常规，首先应优先完成哪一项？",
+    "options": [
+      "先把全部文书补齐，再见患者",
+      "快速评估患者，识别急危重情况",
+      "等所有检验结果齐全再评估"
+    ],
+    "correctIndex": 1,
+    "explanation": "新收患者应先快速评估并识别急危重情况。文书工作需要完成，但不应延误对患者当前状态的了解。",
+    "source": {
+      "fileName": "协和内科住院医师手册_第3版_离线网站.zip / index.html",
+      "section": "临床工作规范／新收患者常规",
+      "pageOrAnchor": "PDF原始页30；#topic=topic-009&page=30"
+    },
+    "reading": "提前了解病情有助于准备；患者到达后，应关注生命体征、意识、循环和呼吸等情况，及时识别需要优先处理的问题。",
+    "tags": [
+      "新收患者",
+      "优先级",
+      "病情评估"
+    ]
+  },
+  {
+    "id": "med02",
+    "title": "用自己的语言汇报",
+    "category": "内科",
+    "scene": "查房前，你要把复杂的住院经过汇报给上级医师。",
+    "question": "哪种汇报最符合手册强调的原则？",
+    "options": [
+      "按时间和逻辑组织信息，突出主要问题、判断与计划",
+      "逐字朗读整份入院病历",
+      "只列异常化验数值，省略临床判断"
+    ],
+    "correctIndex": 0,
+    "explanation": "手册强调简明、有条理、有思路。信息之外，还应体现对病情的理解、目前问题的判断及诊疗计划。",
+    "source": {
+      "fileName": "协和内科住院医师手册_第3版_离线网站.zip / index.html",
+      "section": "如何汇报病例",
+      "pageOrAnchor": "PDF原始页32；#topic=topic-010&page=32"
+    },
+    "reading": "病例汇报应围绕主要症状组织现病史，结合相关病史、重要体征和检查，最后总结主要问题及评估计划。",
+    "tags": [
+      "病例汇报",
+      "临床思维"
+    ]
+  },
+  {
+    "id": "med03",
+    "title": "SOAP中的客观信息",
+    "category": "内科",
+    "scene": "你正在整理今日病程记录，准备把信息放入SOAP结构。",
+    "question": "体格检查和检验结果主要应放在哪一部分？",
+    "options": [
+      "S：患者主观症状",
+      "P：诊疗计划",
+      "O：客观结果"
+    ],
+    "correctIndex": 2,
+    "explanation": "O对应客观结果，包括查体、出入量、体重和有意义的检验检查信息；S是症状，A是评估，P是计划。",
+    "source": {
+      "fileName": "协和内科住院医师手册_第3版_离线网站.zip / index.html",
+      "section": "日常病程记录",
+      "pageOrAnchor": "PDF原始页33；#topic=topic-011&page=33"
+    },
+    "reading": "日常病程既要记录病情现状和变化，也要体现医师的分析与决策依据。SOAP有助于区分症状、客观证据、评估和计划。",
+    "tags": [
+      "病程记录",
+      "SOAP",
+      "病历质量"
+    ]
+  },
+  {
+    "id": "med04",
+    "title": "让交班可以执行",
+    "category": "内科",
+    "scene": "夜班同事接过你的交班本，想知道今晚重点关注什么。",
+    "question": "哪种交班方式最有助于维持诊疗连续性？",
+    "options": [
+      "只说“这个患者你多看着点”",
+      "说明当前问题、自己的判断、待办任务和观察重点",
+      "把所有既往病历原样复制给同事"
+    ],
+    "correctIndex": 1,
+    "explanation": "交班应简明直接，并让待办事项具有可操作性。当前问题、已有判断和需要继续观察或完成的任务都很重要。",
+    "source": {
+      "fileName": "协和内科住院医师手册_第3版_离线网站.zip / index.html",
+      "section": "如何交接班",
+      "pageOrAnchor": "PDF原始页35；#topic=topic-013&page=35"
+    },
+    "reading": "交班的目标是维持诊疗连续性、保证患者安全和体现协作。信息应面向接班医师的实际需要，而非单纯堆积病史。",
+    "tags": [
+      "交接班",
+      "团队协作"
+    ]
+  },
+  {
+    "id": "med05",
+    "title": "确认真正理解",
+    "category": "内科",
+    "scene": "解释一项检查后，患者点头说“我知道了”，你准备确认其理解。",
+    "question": "手册建议用哪种方式进一步确认患者是否理解？",
+    "options": [
+      "请患者用自己的话复述关键内容",
+      "仅确认知情同意书已签名",
+      "只问家属是否同意，不再询问患者"
+    ],
+    "correctIndex": 0,
+    "explanation": "请患者按自己的理解复述，有助于发现信息遗漏或误解。签字是流程的一部分，不能替代理解与沟通。",
+    "source": {
+      "fileName": "协和内科住院医师手册_第3版_离线网站.zip / index.html",
+      "section": "知情同意",
+      "pageOrAnchor": "PDF原始页39；#topic=topic-015&page=39"
+    },
+    "reading": "知情同意过程包括评估决策能力、解释获益与风险、讨论其他选择、确认理解，并记录沟通。手册提倡医患共同决策。",
+    "tags": [
+      "知情同意",
+      "沟通",
+      "共同决策"
+    ]
+  },
+  {
+    "id": "med06",
+    "title": "谈话之后的记录",
+    "category": "内科",
+    "scene": "家属谈话即将结束，大家已就下一步安排达成共识。",
+    "question": "此时最合适的收尾是什么？",
+    "options": [
+      "只说“以后再看”，立即离开",
+      "反复重复医学术语，以显示专业性",
+      "确认疑问，总结决定与下一步计划，并记录谈话"
+    ],
+    "correctIndex": 2,
+    "explanation": "手册强调在结束谈话时确认疑问、总结决定、安排下一步，并在病程中记录谈话和计划。",
+    "source": {
+      "fileName": "协和内科住院医师手册_第3版_离线网站.zip / index.html",
+      "section": "如何与患者家属谈话",
+      "pageOrAnchor": "PDF原始页41；#topic=topic-016&page=41"
+    },
+    "reading": "与家属谈话前先了解病情并明确目标；谈话中使用通俗语言，回应关切；结束时留下清晰、可追踪的共同计划。",
+    "tags": [
+      "医患沟通",
+      "记录规范"
+    ]
+  },
+  {
+    "id": "med07",
+    "title": "坏消息中的停顿",
+    "category": "内科",
+    "scene": "说明检查结果后，患者沉默并流泪，谈话室安静下来。",
+    "question": "依据SPIKES框架，下一步更适合怎样做？",
+    "options": [
+      "忽略情绪，迅速讲完全部技术细节",
+      "观察并回应患者情绪，给予表达空间",
+      "立即结束谈话，避免患者继续难过"
+    ],
+    "correctIndex": 1,
+    "explanation": "SPIKES包含共情环节。观察情绪、探讨感受并回应，有助于患者在被理解的基础上继续沟通。",
+    "source": {
+      "fileName": "协和内科住院医师手册_第3版_离线网站.zip / index.html",
+      "section": "如何告知坏消息",
+      "pageOrAnchor": "PDF原始页42；#topic=topic-017&page=42"
+    },
+    "reading": "告知坏消息应准备合适环境，了解患者已有认知及信息意愿，分段说明，回应情绪，最后总结与规划。",
+    "tags": [
+      "SPIKES",
+      "共情",
+      "沟通"
+    ]
+  },
+  {
+    "id": "med08",
+    "title": "理解弥散能力",
+    "category": "内科",
+    "scene": "你和同伴正在阅读一张肺功能报告，看到DLCO这一项。",
+    "question": "DLCO主要反映哪一环节的气体交换能力？",
+    "options": [
+      "肺泡腔到肺毛细血管之间的气体交换",
+      "口腔到食管之间的气体流动",
+      "心房到心室之间的血流速度"
+    ],
+    "correctIndex": 0,
+    "explanation": "手册将弥散功能描述为肺泡腔到毛细血管的气体交换。它与单纯的通气功能属于不同的观察角度。",
+    "source": {
+      "fileName": "协和内科住院医师手册_第3版_离线网站.zip / index.html",
+      "section": "肺功能／主要概念",
+      "pageOrAnchor": "PDF原始页132；#topic=topic-054&page=132"
+    },
+    "reading": "通气功能关注气体进出肺泡；弥散功能关注肺泡与毛细血管之间的交换。解读时应将不同参数和临床情境结合。",
+    "tags": [
+      "肺功能",
+      "DLCO",
+      "检查解释"
+    ]
+  },
+  {
+    "id": "med09",
+    "title": "系统地阅读心电图",
+    "category": "内科",
+    "scene": "桌上有一份新心电图，你要向同伴说明自己的阅读顺序。",
+    "question": "哪一种做法符合手册的“系统、全面”原则？",
+    "options": [
+      "只看机器自动给出的结论",
+      "只寻找自己熟悉的一种波形",
+      "依次关注心率、心律、传导等，并结合整体图形"
+    ],
+    "correctIndex": 2,
+    "explanation": "心电图应系统解读。手册依次讨论导联、心率、心律和传导等内容，不能仅凭一个局部特征或机器结论。",
+    "source": {
+      "fileName": "协和内科住院医师手册_第3版_离线网站.zip / index.html",
+      "section": "心电图速读",
+      "pageOrAnchor": "PDF原始页178；#topic=topic-068&page=178"
+    },
+    "reading": "阅读心电图可采用固定框架，避免遗漏：先确认基本信息和导联，再分析心率、心律、传导及其他波形变化。",
+    "tags": [
+      "心电图",
+      "系统评估"
+    ]
+  },
+  {
+    "id": "med10",
+    "title": "损伤与合成功能",
+    "category": "内科",
+    "scene": "“肝功能”报告里有转氨酶、白蛋白和凝血酶原时间，你准备分清含义。",
+    "question": "哪组指标与肝脏合成功能关系更直接？",
+    "options": [
+      "ALT与AST",
+      "白蛋白与凝血酶原时间",
+      "血钠与血钾"
+    ],
+    "correctIndex": 1,
+    "explanation": "手册区分肝损伤指标与合成功能指标：ALT、AST等主要提示损伤；白蛋白、PT反映合成功能的一个侧面。",
+    "source": {
+      "fileName": "协和内科住院医师手册_第3版_离线网站.zip / index.html",
+      "section": "肝功能解读／概述",
+      "pageOrAnchor": "PDF原始页223；#topic=topic-080&page=223"
+    },
+    "reading": "“肝功能”是一组不同意义的指标。解读时应区分损伤、胆汁排泄与合成功能，并结合临床及其他影响因素。",
+    "tags": [
+      "肝功能",
+      "检验解释"
+    ]
+  },
+  {
+    "id": "med11",
+    "title": "贫血先分清机制",
+    "category": "内科",
+    "scene": "你发现患者血红蛋白降低，准备进一步整理贫血的原因。",
+    "question": "哪组检查有助于从形态和骨髓反应两个角度分析贫血？",
+    "options": [
+      "MCV、网织红细胞及外周血涂片",
+      "仅记录患者是否感到乏力",
+      "只查一次体温"
+    ],
+    "correctIndex": 0,
+    "explanation": "手册列出血常规中的MCV、网织红细胞和外周血涂片，结合病史来决定后续检查，区分生成不足与破坏或丢失等机制。",
+    "source": {
+      "fileName": "协和内科住院医师手册_第3版_离线网站.zip / index.html",
+      "section": "贫血／诊断",
+      "pageOrAnchor": "PDF原始页324；#topic=topic-118&page=324"
+    },
+    "reading": "贫血分析需要病史与实验室信息配合。MCV帮助形态分类，网织红细胞反映造血反应，涂片提供细胞形态线索。",
+    "tags": [
+      "贫血",
+      "网织红细胞",
+      "诊断思路"
+    ]
+  },
+  {
+    "id": "med12",
+    "title": "胸水需要配对信息",
+    "category": "内科",
+    "scene": "同伴准备按Light标准判断胸腔积液性质，手上只有胸水报告。",
+    "question": "还需要关注哪组配对数据？",
+    "options": [
+      "仅患者身高与体重",
+      "仅尿常规中的蛋白",
+      "血清蛋白和LDH，与胸水结果配合"
+    ],
+    "correctIndex": 2,
+    "explanation": "Light标准包含胸水与血清蛋白、LDH的比较，因此需要相应血清结果。分类结果仍应放回病因背景中解释。",
+    "source": {
+      "fileName": "协和内科住院医师手册_第3版_离线网站.zip / index.html",
+      "section": "胸腔积液／病因诊断",
+      "pageOrAnchor": "PDF原始页163；#topic=topic-064&page=163"
+    },
+    "reading": "胸腔积液评估包含外观与针对性检查。渗出液判断可使用Light标准，但个别临床情境可能出现误分类，需要综合分析。",
+    "tags": [
+      "胸腔积液",
+      "Light标准",
+      "配对检查"
+    ]
+  },
+  {
+    "id": "endo01",
+    "title": "骨骺闭合前后",
+    "category": "内分泌",
+    "scene": "异闻档案提到同一种激素过量，却出现两种不同的身体变化。",
+    "question": "生长激素过量发生于骨骺闭合前与闭合后，典型表现分别是什么？",
+    "options": [
+      "都只表现为体重下降",
+      "巨人症与肢端肥大症",
+      "甲状腺肿与低血糖"
+    ],
+    "correctIndex": 1,
+    "explanation": "手册概述指出，骨骺闭合前的GH过量可导致巨人症，成人骨骺闭合后则主要表现为肢端肥大症。",
+    "source": {
+      "fileName": "pumch-endocrine-handbook-offline.zip / pumch-endocrine-handbook-offline.html",
+      "section": "生长激素腺瘤／概述",
+      "pageOrAnchor": "内置章节键 acromegaly；原HTML标注原书页8–13"
+    },
+    "reading": "GH腺瘤的临床评估涉及激素分泌、占位影响与并发症。相同的激素过量，在不同发育阶段可呈现不同表型。",
+    "tags": [
+      "GH",
+      "肢端肥大症",
+      "病理生理"
+    ]
+  },
+  {
+    "id": "endo02",
+    "title": "高催乳素并非一个病因",
+    "category": "内分泌",
+    "scene": "一份催乳素升高的结果放在桌上，同伴问能否立刻认定为垂体瘤。",
+    "question": "哪一种判断更符合手册的诊断思路？",
+    "options": [
+      "任何催乳素升高都等于催乳素瘤",
+      "只凭一次化验便可确定肿瘤位置",
+      "结合临床、化验与影像，并排查生理、药物等其他原因"
+    ],
+    "correctIndex": 2,
+    "explanation": "高催乳素血症有多种原因。催乳素瘤诊断需结合临床、生化和垂体影像，并排除其他原因。",
+    "source": {
+      "fileName": "pumch-endocrine-handbook-offline.zip / pumch-endocrine-handbook-offline.html",
+      "section": "催乳素瘤／诊断要点与鉴别诊断",
+      "pageOrAnchor": "内置章节键 prolactinoma；原HTML标注原书页2–7"
+    },
+    "reading": "妊娠、哺乳、某些药物及其他疾病都可能影响PRL。化验与肿瘤大小明显不相称时，还应考虑测定方法的干扰。",
+    "tags": [
+      "PRL",
+      "鉴别诊断",
+      "检验解释"
+    ]
+  },
+  {
+    "id": "endo03",
+    "title": "多尿背后的信号",
+    "category": "内分泌",
+    "scene": "你在知识角比较中枢性与肾性尿崩症的机制。",
+    "question": "中枢性尿崩症的主要机制是哪一项？",
+    "options": [
+      "抗利尿激素的分泌或释放不足",
+      "肾小管对抗利尿激素的反应障碍",
+      "甲状腺激素生成增加"
+    ],
+    "correctIndex": 0,
+    "explanation": "中枢性尿崩症与抗利尿激素分泌或释放不足有关；肾性尿崩症则与肾脏对该激素的反应障碍有关。",
+    "source": {
+      "fileName": "pumch-endocrine-handbook-offline.zip / pumch-endocrine-handbook-offline.html",
+      "section": "中枢性尿崩症／概述与诊断思路",
+      "pageOrAnchor": "内置章节键 central-di；原HTML标注原书页23–28"
+    },
+    "reading": "尿崩症常表现为大量低渗尿、烦渴和多饮。诊断思路需要先确认多尿性质，再区分机制并寻找病因。",
+    "tags": [
+      "ADH",
+      "尿崩症",
+      "病理生理"
+    ]
+  },
+  {
+    "id": "endo04",
+    "title": "被抗体启动的受体",
+    "category": "内分泌",
+    "scene": "一张甲状腺示意图上，TSH受体旁画着一枚抗体。",
+    "question": "Graves病中，与刺激TSH受体有关的抗体是哪一类？",
+    "options": [
+      "抗核抗体",
+      "TSH受体抗体TRAb",
+      "抗内因子抗体"
+    ],
+    "correctIndex": 1,
+    "explanation": "手册将Graves病描述为自身免疫性疾病：刺激性TSH受体抗体可促使甲状腺激素生成和释放增多。",
+    "source": {
+      "fileName": "pumch-endocrine-handbook-offline.zip / pumch-endocrine-handbook-offline.html",
+      "section": "Graves病／概述",
+      "pageOrAnchor": "内置章节键 graves；原HTML标注原书页53–55"
+    },
+    "reading": "Graves病的判断结合临床、甲状腺功能及相关辅助检查。TRAb与TSH受体相关，是理解其发病机制的重要线索。",
+    "tags": [
+      "Graves病",
+      "TRAb",
+      "自身免疫"
+    ]
+  },
+  {
+    "id": "endo05",
+    "title": "桥本甲状腺炎的机制",
+    "category": "内分泌",
+    "scene": "同伴把桥本甲状腺炎与普通细菌感染混为一谈，请你纠正概念。",
+    "question": "桥本甲状腺炎主要属于哪一类疾病？",
+    "options": [
+      "自身免疫性甲状腺炎",
+      "单纯细菌性化脓感染",
+      "仅由外伤导致的甲状腺出血"
+    ],
+    "correctIndex": 0,
+    "explanation": "桥本甲状腺炎是自身免疫性甲状腺炎的一种，涉及淋巴细胞浸润和甲状腺滤泡破坏。",
+    "source": {
+      "fileName": "pumch-endocrine-handbook-offline.zip / pumch-endocrine-handbook-offline.html",
+      "section": "慢性淋巴细胞性甲状腺炎／概述",
+      "pageOrAnchor": "内置章节键 hashimoto；原HTML标注原书页75–77"
+    },
+    "reading": "桥本甲状腺炎可缓慢进展，甲状腺功能状态随病程变化。抗体结果需结合甲状腺功能和临床信息解读。",
+    "tags": [
+      "桥本甲状腺炎",
+      "自身免疫"
+    ]
+  },
+  {
+    "id": "endo06",
+    "title": "把血钙与PTH放在一起",
+    "category": "内分泌",
+    "scene": "评估疑似原发性甲旁亢时，两份来自不同日期的化验放在你面前。",
+    "question": "手册强调，定性判断尤其需要怎样的信息？",
+    "options": [
+      "仅看颈部超声有无结节",
+      "仅记录是否出现骨痛",
+      "同步测定并结合判断血钙与PTH"
+    ],
+    "correctIndex": 2,
+    "explanation": "手册明确强调血钙与PTH应同步测定、联合判断。定位影像用于寻找病灶，不能替代生化层面的定性评估。",
+    "source": {
+      "fileName": "pumch-endocrine-handbook-offline.zip / pumch-endocrine-handbook-offline.html",
+      "section": "原发性甲状旁腺功能亢进症／诊断要点／实验室检查",
+      "pageOrAnchor": "内置章节键 primary-hyperparathyroidism；原HTML标注原书页150–156"
+    },
+    "reading": "原发性甲旁亢评估包括定性、定位和并发症评价。生化信息与影像各自回答不同问题，不能互相替代。",
+    "tags": [
+      "甲旁亢",
+      "PTH",
+      "诊断顺序"
+    ]
+  },
+  {
+    "id": "endo07",
+    "title": "醛固酮与肾素的方向",
+    "category": "内分泌",
+    "scene": "你正在整理原发性醛固酮增多症的激素轴示意图。",
+    "question": "其典型病理生理关系是哪一项？",
+    "options": [
+      "醛固酮减少，肾素持续受抑制",
+      "醛固酮分泌增多，肾素受抑制",
+      "两者均由甲状腺直接分泌"
+    ],
+    "correctIndex": 1,
+    "explanation": "原醛症的特点包括醛固酮分泌增多及肾素受抑制。患者可伴低钾，也可能没有低钾。",
+    "source": {
+      "fileName": "pumch-endocrine-handbook-offline.zip / pumch-endocrine-handbook-offline.html",
+      "section": "原发性醛固酮增多症／概述与临床表现",
+      "pageOrAnchor": "内置章节键 primary-aldosteronism；原HTML标注原书页327–331"
+    },
+    "reading": "理解原醛症应先认识醛固酮与肾素的关系。正常血钾并不能单独排除该病，检查结果还受取样条件等因素影响。",
+    "tags": [
+      "原醛症",
+      "肾素",
+      "病理生理"
+    ]
+  },
+  {
+    "id": "endo08",
+    "title": "阵发性症状的组合",
+    "category": "内分泌",
+    "scene": "病例讨论中出现阵发性血压升高，你要留意手册提到的症状组合。",
+    "question": "PPGL章节列出的常见三个症状是什么？",
+    "options": [
+      "头痛、心悸、大汗",
+      "黄疸、腹水、瘙痒",
+      "咳嗽、咳痰、咯血"
+    ],
+    "correctIndex": 0,
+    "explanation": "手册列出头痛、心悸和大汗为常见症状组合。这些线索提示进一步评估的方向，本身不能完成诊断。",
+    "source": {
+      "fileName": "pumch-endocrine-handbook-offline.zip / pumch-endocrine-handbook-offline.html",
+      "section": "嗜铬细胞瘤和副神经节瘤／诊断要点／临床表现",
+      "pageOrAnchor": "内置章节键 ppgl；原HTML标注原书页332–337"
+    },
+    "reading": "嗜铬细胞瘤和副神经节瘤涉及儿茶酚胺相关表现。诊断还需结合生化、定位与其他评估。",
+    "tags": [
+      "PPGL",
+      "儿茶酚胺",
+      "临床线索"
+    ]
+  },
+  {
+    "id": "endo09",
+    "title": "激素轴的反馈",
+    "category": "内分泌",
+    "scene": "你要在示意图中区分原发性与继发性肾上腺皮质功能减退。",
+    "question": "原发性肾上腺皮质功能减退时，ACTH通常呈什么变化？",
+    "options": [
+      "必然完全测不到",
+      "必然随皮质醇一起下降",
+      "因反馈减弱而升高"
+    ],
+    "correctIndex": 2,
+    "explanation": "手册指出，原发性肾上腺皮质功能减退时ACTH常明显升高；继发性者ACTH可低或处于正常范围。",
+    "source": {
+      "fileName": "pumch-endocrine-handbook-offline.zip / pumch-endocrine-handbook-offline.html",
+      "section": "肾上腺皮质功能减退症／实验室检查／血皮质醇和ACTH",
+      "pageOrAnchor": "内置章节键 adrenal-insufficiency；原HTML标注原书页338–342"
+    },
+    "reading": "同样的靶腺激素不足，可能来自靶腺本身，也可能来自上游调控。将皮质醇与ACTH放在同一激素轴中理解有助于鉴别。",
+    "tags": [
+      "肾上腺功能减退",
+      "ACTH",
+      "负反馈"
+    ]
+  },
+  {
+    "id": "endo10",
+    "title": "库欣病与综合征",
+    "category": "内分泌",
+    "scene": "教学卡上同时出现“库欣病”和“库欣综合征”，同伴以为二者完全等同。",
+    "question": "手册中的“库欣病”特指哪一种病因？",
+    "options": [
+      "所有外源性糖皮质激素作用",
+      "垂体ACTH腺瘤所致的库欣综合征",
+      "所有肾上腺占位"
+    ],
+    "correctIndex": 1,
+    "explanation": "库欣综合征是较广的综合征名称；库欣病特指垂体ACTH腺瘤这一病因。",
+    "source": {
+      "fileName": "pumch-endocrine-handbook-offline.zip / pumch-endocrine-handbook-offline.html",
+      "section": "库欣综合征／概述与病因分类",
+      "pageOrAnchor": "内置章节键 cushing；原HTML标注原书页320–326"
+    },
+    "reading": "内源性库欣综合征可按ACTH依赖性与非依赖性分类。讨论病因前，也应了解有无外源性糖皮质激素使用。",
+    "tags": [
+      "库欣病",
+      "库欣综合征",
+      "病因分类"
+    ]
+  },
+  {
+    "id": "endo11",
+    "title": "不同血糖指标的时间窗",
+    "category": "内分泌",
+    "scene": "同伴把一次指尖血糖与HbA1c当成同一种时间尺度的结果。",
+    "question": "HbA1c通常主要反映哪段时间的平均血糖水平？",
+    "options": [
+      "过去约2–3个月",
+      "刚刚过去的几分钟",
+      "一生以来的全部血糖"
+    ],
+    "correctIndex": 0,
+    "explanation": "手册说明HbA1c主要反映约2–3个月平均血糖；即时血糖则反映测量时的状态。两者提供的信息不同。",
+    "source": {
+      "fileName": "pumch-endocrine-handbook-offline.zip / pumch-endocrine-handbook-offline.html",
+      "section": "血糖监测临床应用／概述",
+      "pageOrAnchor": "内置章节键 glucose-monitoring；原HTML标注原书页302–311"
+    },
+    "reading": "血糖监测方式各有时间窗。解释指标时先明确它反映即时、近期还是较长期的情况，再与临床情境结合。",
+    "tags": [
+      "HbA1c",
+      "血糖监测",
+      "时间窗"
+    ]
+  },
+  {
+    "id": "endo12",
+    "title": "结节评估问什么",
+    "category": "内分泌",
+    "scene": "超声报告写着“甲状腺结节”，患者担心这是否已经等于癌症。",
+    "question": "甲状腺结节评估中的核心问题之一是什么？",
+    "options": [
+      "有结节就可直接等同恶性肿瘤",
+      "只看是否能摸到，忽略其他信息",
+      "结合临床与相关检查判断良恶性风险"
+    ],
+    "correctIndex": 2,
+    "explanation": "手册将良恶性鉴别列为结节评估要点。发现结节并不等于已经确诊恶性肿瘤。",
+    "source": {
+      "fileName": "pumch-endocrine-handbook-offline.zip / pumch-endocrine-handbook-offline.html",
+      "section": "甲状腺结节／概述与诊断要点",
+      "pageOrAnchor": "内置章节键 thyroid-nodule；原HTML标注原书页88–90"
+    },
+    "reading": "甲状腺结节评估结合病史、体征、甲状腺功能及超声等信息；必要时进一步检查。结节的存在与性质是不同的问题。",
+    "tags": [
+      "甲状腺结节",
+      "风险评估",
+      "诊断思路"
+    ]
+  }
+]

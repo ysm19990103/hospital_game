@@ -1,0 +1,248 @@
+[
+  {
+    "id": 30,
+    "title": "美玉白骨",
+    "tagline": "水汽散去之后，留下的究竟是什么？",
+    "sourceLabel": "原作第30章",
+    "sourceSummary": "周末，仍在规培的李晨光去汤泉休息，遇见同届规培生白芍。短暂亲近使他想起感染科轮转时接触的病名，焦虑压过理智，他仓促离开。片尾以志怪方式揭示白芍的另一重身份。",
+    "intro": "一周的工作终于告一段落。你在汤池边遇见白芍，聊了很久，却在靠近与退开之间失去了分寸。看完这段经历，再决定怎样回应自己的不安。",
+    "objective": "分清亲近、边界与恐惧，选择如何结束这个周末。",
+    "transitionIntro": "接连的轮转与夜班之后，李晨光终于有了一个休息的周末。医院外的一次偶遇，把他带进另一场难以说清的惊惶。",
+    "timeNote": "规培 · 感染科轮转之后的周末；片尾为志怪揭示，不构成现实中的传播风险判断。",
+    "presentation": "video",
+    "video": "media/ch30.mp4",
+    "poster": "assets/scenes/ch30-a.jpg",
+    "clues": [],
+    "sourceMetadata": {
+      "fileName": "白衣志怪录_第三十章_美玉白骨_横屏.mp4",
+      "sourceChapterNumber": 30,
+      "narrativeOwner": "李晨光",
+      "subtitlePath": "docs/source-subtitles/ch30.srt"
+    },
+    "sourceReview": {
+      "method": "full_production_subtitles_and_sampled_video_frames",
+      "subtitlePath": "docs/source-subtitles/ch30.srt"
+    },
+    "adaptationNote": "片尾行动及分支结局为游戏改编；源影片中的情节和片中时间跨度不预先决定玩家命运。",
+    "choices": [
+      {
+        "id": "c30_leave",
+        "label": "说明不适，先离开汤池",
+        "text": "不勉强自己继续接触，也不把猜测当作对方的事实。",
+        "requiresClues": 0,
+        "effects": {
+          "hp": 5,
+          "energy": 6,
+          "trust": -1,
+          "insight": 2,
+          "money": 0
+        },
+        "ending": {
+          "title": "留下一句完整的话",
+          "text": "你说清自己需要独处，披好浴袍走到门外。水汽还在身后，离开的决定终于不再只剩慌乱。",
+          "tone": "mixed"
+        }
+      },
+      {
+        "id": "c30_boundary",
+        "label": "把自己的边界说清楚",
+        "text": "坦诚告诉白芍，你需要一些距离和休息。",
+        "requiresClues": 0,
+        "effects": {
+          "hp": 3,
+          "energy": 3,
+          "trust": 5,
+          "insight": 3,
+          "money": 0
+        },
+        "ending": {
+          "title": "池边的距离",
+          "text": "你们各自坐回池边，谈话慢了下来。亲近没有被强求，安静也不再必须解释成拒绝。",
+          "tone": "hope"
+        }
+      },
+      {
+        "id": "c30_reflect",
+        "label": "把不安写下，暂不下结论",
+        "text": "记下真正发生的事，等冷静后再处理反复出现的担心。",
+        "requiresClues": 0,
+        "effects": {
+          "hp": 1,
+          "energy": -3,
+          "trust": 1,
+          "insight": 7,
+          "money": 0
+        },
+        "ending": {
+          "title": "没有写满的纸",
+          "text": "纸上只有你看见、听见和感受到的事情。那些来不及核实的念头留在空白处，没有变成对另一个人的判词。",
+          "tone": "mixed"
+        }
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "穷且益坚",
+    "tagline": "如果不是故事里的主角，你还想怎样生活？",
+    "sourceLabel": "原作第31章",
+    "sourceSummary": "规培生李晨光在病历夹层发现一本小说：同级沈亦航是日后成为院士的主角，同名的李晨光却只是衬托他的配角。比较与缺乏回应使他迷茫；周末散步后，他重新把心思放回患者、临床学习和具体职责。书中的未来属于小说，并非李晨光已经经历的人生。",
+    "intro": "病历夹层里多了一本泛黄的小说。你翻到自己的名字，却发现那几行字只为衬托另一个人的光芒。书合上以后，明天的病房还在等你。",
+    "objective": "决定用什么衡量自己的工作，而不只追赶书里的排名。",
+    "transitionIntro": "规培的日子重复向前，认真完成的工作却不总能换来回应。一次深夜翻书，让李晨光开始怀疑自己是否只是别人人生里的配角。",
+    "timeNote": "规培 · 书中院士是沈亦航的小说结局，李晨光仍在当下的轮转生活。",
+    "presentation": "video",
+    "video": "media/ch31.mp4",
+    "poster": "assets/scenes/ch31-a.jpg",
+    "clues": [],
+    "sourceMetadata": {
+      "fileName": "白衣志怪录_第三十一章_穷且益坚_横屏.mp4",
+      "sourceChapterNumber": 31,
+      "narrativeOwner": "李晨光",
+      "subtitlePath": "docs/source-subtitles/ch31.srt"
+    },
+    "sourceReview": {
+      "method": "full_production_subtitles_and_sampled_video_frames",
+      "subtitlePath": "docs/source-subtitles/ch31.srt"
+    },
+    "adaptationNote": "片尾行动及分支结局为游戏改编；源影片中的情节和片中时间跨度不预先决定玩家命运。",
+    "choices": [
+      {
+        "id": "c31_compare",
+        "label": "继续追赶书里的排名",
+        "text": "把更多时间投入竞争，希望下一页能够写到自己。",
+        "requiresClues": 0,
+        "effects": {
+          "hp": -5,
+          "energy": -8,
+          "trust": 1,
+          "insight": 3,
+          "money": 5
+        },
+        "ending": {
+          "title": "追不上翻动的页码",
+          "text": "你把待办清单排得更满。新的结果还没有到来，生活里能容纳其他事情的空白却先少了一些。",
+          "tone": "dark"
+        }
+      },
+      {
+        "id": "c31_patient",
+        "label": "从明天的一位患者做起",
+        "text": "重新整理眼前的工作，认真倾听并承担能够完成的职责。",
+        "requiresClues": 0,
+        "effects": {
+          "hp": 2,
+          "energy": -2,
+          "trust": 6,
+          "insight": 5,
+          "money": 0
+        },
+        "ending": {
+          "title": "属于你的那一页",
+          "text": "你把书放回抽屉，先核对好明早要交接的事项。那页纸没有写成传奇，却留下了一个具体的人得到照顾的经过。",
+          "tone": "hope"
+        }
+      },
+      {
+        "id": "c31_walk",
+        "label": "先出去走一走",
+        "text": "给自己留出一点不必接受评分的时间，再重新安排学习与工作。",
+        "requiresClues": 0,
+        "effects": {
+          "hp": 6,
+          "energy": 8,
+          "trust": 0,
+          "insight": 2,
+          "money": -3
+        },
+        "ending": {
+          "title": "公园里的空白页",
+          "text": "树影从鞋边移过去，你不急着替余生写下结论。回医院时，那本书仍在包里，却没有再替你决定每一步。",
+          "tone": "mixed"
+        }
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "第二人格",
+    "tagline": "镜中的温柔，能陪你走多远？",
+    "sourceLabel": "原作第33章",
+    "sourceSummary": "骨科轮转期间，连续通宵的李晨光在镜中遇见自称李辉光的另一个自己。他在查房和手术中得到安慰，却逐渐依赖这段无法确认的关系；后来向现实中的专业人员求助，接受评估、治疗、复诊与休息调整。片尾短暂跳至多年后成熟的手术医生李晨光，回望曾经的陪伴。",
+    "intro": "又是一个通宵后的清晨。镜中的人先抬起头，轻声叫你晨光。有人愿意陪你把一天撑过去，你却还不知道，自己会多么依赖这份温柔。",
+    "objective": "面对依赖与告别，决定怎样把生活重新握在手中。",
+    "transitionIntro": "漫长的夜班之后，故事转向李晨光在骨科轮转的一段经历。镜子里出现的李辉光，让疲惫的清晨暂时有了可以依靠的人。",
+    "timeNote": "规培 · 骨科轮转往事；片尾“多年以后”是短暂尾声，下一章仍接续青年时期的经历。",
+    "presentation": "video",
+    "video": "media/ch33.mp4",
+    "poster": "assets/scenes/ch33-a.jpg",
+    "clues": [],
+    "sourceMetadata": {
+      "fileName": "白衣志怪录_第三十三章_第二人格_横屏.mp4",
+      "sourceChapterNumber": 33,
+      "narrativeOwner": "李晨光",
+      "subtitlePath": "docs/source-subtitles/ch33.srt"
+    },
+    "sourceReview": {
+      "method": "full_production_subtitles_and_sampled_video_frames",
+      "subtitlePath": "docs/source-subtitles/ch33.srt"
+    },
+    "adaptationNote": "片尾行动及分支结局为游戏改编；源影片中的情节和片中时间跨度不预先决定玩家命运。",
+    "choices": [
+      {
+        "id": "c33_hide",
+        "label": "暂时把这段经历藏起来",
+        "text": "你还舍不得告别，只想再独自等一次熟悉的声音。",
+        "requiresClues": 0,
+        "effects": {
+          "hp": -5,
+          "energy": -6,
+          "trust": -2,
+          "insight": 2,
+          "money": 0
+        },
+        "ending": {
+          "title": "没有回音的清晨",
+          "text": "镜子仍映着你的脸。等待替你拖延了一次告别，也把本可以说给别人听的话留在了房间里。",
+          "tone": "dark"
+        }
+      },
+      {
+        "id": "c33_help",
+        "label": "继续接受现实中的帮助",
+        "text": "把经历和担心如实说出来，按已商定的安排继续照顾自己。",
+        "requiresClues": 0,
+        "effects": {
+          "hp": 6,
+          "energy": 5,
+          "trust": 3,
+          "insight": 5,
+          "money": -5
+        },
+        "ending": {
+          "title": "另一种陪伴",
+          "text": "你记下下一次见面的时间，也答应同伴在交班后一起吃饭。怀念没有立刻消失，但生活开始容得下镜子以外的人。",
+          "tone": "hope"
+        }
+      },
+      {
+        "id": "c33_goodbye",
+        "label": "给辉光写一封不会寄出的信",
+        "text": "把想念留下，同时为现实中的休息和求助留出位置。",
+        "requiresClues": 0,
+        "effects": {
+          "hp": 3,
+          "energy": 4,
+          "trust": 2,
+          "insight": 6,
+          "money": 0
+        },
+        "ending": {
+          "title": "把温柔带走",
+          "text": "你没有抹掉那段记忆，只把信折好放进抽屉。走出门时，安慰自己的那句话终于由你亲口说了出来。",
+          "tone": "mixed"
+        }
+      }
+    ]
+  }
+]

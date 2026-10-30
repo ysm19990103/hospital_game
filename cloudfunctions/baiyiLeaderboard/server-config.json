@@ -1,0 +1,13 @@
+{
+  "enabled": false,
+  "seasonId": "pilot-v1",
+  "longestMetric": "actionCount",
+  "restorePolicy": "allow_server_replay",
+  "boardLimit": 50,
+  "maxBatchOperations": 30,
+  "maxRunOperations": 5000,
+  "maxRunBytes": 600000,
+  "maxSnapshotRows": 20000,
+  "maxStartsPerDay": 50,
+  "timerName": "baiyiDailySnapshot"
+}
