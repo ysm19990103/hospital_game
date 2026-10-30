@@ -1,0 +1,85 @@
+{
+  "description": "白衣志怪录·李晨光：横屏互动影像与医院生存",
+  "projectname": "baiyi-zhiguailu",
+  "appid": "touristappid",
+  "compileType": "game",
+  "libVersion": "latest",
+  "setting": {
+    "es6": true,
+    "minified": true,
+    "urlCheck": true
+  },
+  "packOptions": {
+    "ignore": [
+      {
+        "type": "folder",
+        "value": "media"
+      },
+      {
+        "type": "folder",
+        "value": "docs"
+      },
+      {
+        "type": "folder",
+        "value": "tests"
+      },
+      {
+        "type": "folder",
+        "value": "tools"
+      },
+      {
+        "type": "file",
+        "value": "index.html"
+      },
+      {
+        "type": "file",
+        "value": "browser.js"
+      },
+      {
+        "type": "file",
+        "value": "package.json"
+      },
+      {
+        "type": "file",
+        "value": "Baiyi_Offline_Game.html"
+      },
+      {
+        "type": "file",
+        "value": "README.md"
+      },
+      {
+        "type": "file",
+        "value": "assets/lichenguang-player.png"
+      },
+      {
+        "type": "file",
+        "value": "assets/halloween-death.png"
+      },
+      {
+        "type": "file",
+        "value": "data/chapters-01-10.json"
+      },
+      {
+        "type": "file",
+        "value": "data/chapters-11-20.json"
+      },
+      {
+        "type": "file",
+        "value": "data/chapters-21-29.json"
+      },
+      {
+        "type": "file",
+        "value": "data/handbook-index.json"
+      },
+      {
+        "type": "file",
+        "value": "data/timeline.json"
+      },
+      {
+        "type": "folder",
+        "value": "cloudfunctions"
+      }
+    ]
+  },
+  "cloudfunctionRoot": "cloudfunctions/"
+}

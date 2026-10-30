@@ -1,0 +1,15 @@
+{
+  "name": "baiyi-zhiguailu",
+  "version": "0.5.0",
+  "private": true,
+  "description": "白衣志怪录互动影像微信小游戏",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "build": "python3 tools/build.py --browser-only",
+    "preview": "python3 -m http.server 8765",
+    "build:standalone": "python3 tools/build.py",
+    "build:cloud": "python3 tools/build_leaderboard_server.py",
+    "test:cloud": "node --test cloudfunctions/baiyiLeaderboard/core.test.js cloudfunctions/baiyiLeaderboard/side-video.test.js cloudfunctions/baiyiLeaderboard/index.test.js",
+    "check:privacy": "python3 tools/check_public_release.py"
+  }
+}
